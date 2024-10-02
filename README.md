@@ -1,5 +1,10 @@
 This repository contains an analysis and supporting code/data on the question:  "Will the Customer Accept the Coupon?"
 
+Link to Jupyter Notebook: https://codio.com/kdimal178136121/assignment-5-1-submission
+Note:  main.ipynb contains all the supporting code; prompt.ipynb contains the default notebook template from the module.
+
+Approach:
+
 To better perform an apples-to-apples comparison of coupon takers, a metric called "Take Rate" was created.  This is defined as the percentage of respondents who picked the coupon. Numerator is defined as respondents Y=1, denominator is count of coupon (Y=0 or 1)
 
 From a demographic standpoint, the top coupon takers are as follows:
